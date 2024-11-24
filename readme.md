@@ -2,6 +2,8 @@
 
 The codelab has the full instructions, but as a quick start, you can do this.
 
+source: https://firebase.google.com/codelabs/firebase-nextjs#2
+
 #### Copy from template
 ```sh
 npx giget@latest gh:firebase/friendlyeats-web/nextjs-start#master . --install
