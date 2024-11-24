@@ -20,8 +20,6 @@ export async function getAuthenticatedAppForUser() {
       : {}
   );
 
-  console.log("-------------------")
-
   const auth = getAuth(firebaseServerApp);
   await auth.authStateReady();
 
